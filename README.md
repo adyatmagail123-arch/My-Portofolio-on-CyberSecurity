@@ -4,6 +4,7 @@ Halo selamat data di portofolio saya.
 Repositori ini menampilkan perjalanan pembelajaran saya, keterampilan teknis, proyek, dan aspirasi karir saya di bidang keamanan siber.
 Ini berfungsi sebagai CV digital untuk menunjukkan perkembangan dan minat saya dalam mengamankan sistem dan jaringan.
 
+# Tentang saya 
 Hai nama saya Adyatma abigail dan saya adalah seseorang yang sangat suka dan senang di dunia komputer terutama di keamanan nya.
 Dan pastinya berdedikasi untuk mempelajari dan menerapkan praktik terbaik untuk melindungi sistem dan data. Saat ini, saya sedang menempuh sertifikasi di bidang keamanan siber, dengan fokus pada pengujian penetrasi dan analisis ancaman.
 
