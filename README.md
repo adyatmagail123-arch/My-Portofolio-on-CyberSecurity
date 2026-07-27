@@ -17,7 +17,7 @@ Fakta Menarik: Ketika saya tidak bekerja di bidang keamanan siber, saya menikmat
 Network Analysis : Wireshark, Nmap.
 Penetration Testing : Metasploit, Burp Suite, Hydra, Nikto, nmap, Nuclei.
 Malware Analysis : Hybrid Analysis, Cuckoo Sandbox, VirusTotal.
-Web Application Security Tools : Nkto, Burp Suite.
+Web Application Security Tools : Nikto, Burp Suite.
 
 Programming Languages : Python, Bash, Golang
 
